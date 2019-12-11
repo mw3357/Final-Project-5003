@@ -10,13 +10,13 @@ Inspired by some collaborative learning theories and some personal experiences a
 Personal experience: When we have group projects in class, we are usually struggling with how to efficiently find our ideal group mates. Moreover, teachers may feel tricky to manage students’ grouping. 
 I also got some inspitations 
 ### Technical execution:
-####tech-stack:
-#####Front-end: React (JS), React Router, Moment.js, React Bootstrap 
-#####Back-end: Node, Express, Mongoose, MongoDB
-#####deploy: npm
+#### tech-stack:
+##### Front-end: React (JS), React Router, Moment.js, React Bootstrap 
+##### Back-end: Node, Express, Mongoose, MongoDB
+##### deploy: npm
 Firstly, I made a very basic website using HTML, CSS, JavaScipt, but lately I found that the user interface is not very aesthetic and it costs lines of codes to achieve a very basic function. So, I watched a lot of youtube tutorials and googled several examples via mainstream websites, like StackOverflow,  W3Schools. Many youtubers mentioned industrial standards about front-end development and recommended react for creating interactive UIs. So I turned to learn knowledge about react and how to develop a website with front-end and back-end.    
-#####https://www.youtube.com/watch?v=7CqJlxBYj-M
-#####https://www.youtube.com/watch?v=Ke90Tje7VS0
+##### https://www.youtube.com/watch?v=7CqJlxBYj-M
+##### https://www.youtube.com/watch?v=Ke90Tje7VS0
 
 ### This is the project I finished so far:
 https://www.w3schools.com (css, html, javascript guidelines)
