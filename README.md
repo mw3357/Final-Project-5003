@@ -11,27 +11,27 @@ Personal experience: When we have group projects in class, we are usually strugg
 I also got some inspitations 
 ### Technical execution:
 - tech-stack:
-##### Front-end: React (JS), React Router, Moment.js, React Bootstrap 
-##### Back-end: Node, Express, Mongoose, MongoDB
-##### deploy: npm
-Firstly, I made a very basic website using HTML, CSS, JavaScipt, but lately I found that the user interface was not very aesthetic and it costed lines of codes to achieve a very basic function. So, I watched a lot of youtube tutorials and googled several examples via mainstream websites, like StackOverflow,  W3Schools. Many youtubers mentioned industrial standards about front-end development and recommended react for creating interactive UIs. So I turned to learn knowledge about react and learned to develop a website with front-end and back-end. I used React for developing the front-end, and for the back-end, I used Node, Express, Mongoose, MongoDB.  
+-- Front-end: React (JS), React Router, Moment.js, React Bootstrap 
+-- Back-end: Node, Express, Mongoose, MongoDB
+-- deploy: npm
+- Firstly, I made a very basic website using HTML, CSS, JavaScipt, but lately I found that the user interface was not very aesthetic and it costed lines of codes to achieve a very basic function. So, I watched a lot of youtube tutorials and googled several examples via mainstream websites, like StackOverflow,  W3Schools. Many youtubers mentioned industrial standards about front-end development and recommended react for creating interactive UIs. So I turned to learn knowledge about react and learned to develop a website with front-end and back-end. I used React for developing the front-end, and for the back-end, I used Node, Express, Mongoose, MongoDB.  
 
-I found a tutorial for installing MongoDB on a Google Cloud node with easy setups : https://bluemedora.com/mongodb-on-google-cloud-how-to-set-it-up-and-keep-it-healthy/. The mongo endpoint is 34.87.52.51:27017. 
+- I found a tutorial for installing MongoDB on a Google Cloud node with easy setups : https://bluemedora.com/mongodb-on-google-cloud-how-to-set-it-up-and-keep-it-healthy/. The mongo endpoint is 34.87.52.51:27017. 
 
-##### https://www.youtube.com/watch?v=7CqJlxBYj-M
-##### https://www.youtube.com/watch?v=Ke90Tje7VS0
+- https://www.youtube.com/watch?v=7CqJlxBYj-M
+- https://www.youtube.com/watch?v=Ke90Tje7VS0
 
 ### This is the project I finished so far:
 
 
 ### Self reflection:
-##### I spent 4 weeks to learn to use react and other basic knowledge about developing a interactive website with both front-end and back-end, but still find the timeline is pretty tight and stressful. If I could start over again, I would not spend much time on using plain HTML, CSS and JavaScript to develop the old version of the website. Instead, I will spend more time on studying knowledge about React, Node, etc. and build websites based on the existed frameworks.
-##### What I find most interesting in my project is that I can create a presentable user interface and achieve real functions by using existed libraries and frameworks, which saves me a lot of time.   
+- I spent 4 weeks to learn to use react and other basic knowledge about developing a interactive website with both front-end and back-end, but still find the timeline is pretty tight and stressful. If I could start over again, I would not spend much time on using plain HTML, CSS and JavaScript to develop the old version of the website. Instead, I will spend more time on studying knowledge about React, Node, etc. and build websites based on the existed frameworks.
+- What I find most interesting in my project is that I can create a presentable user interface and achieve real functions by using existed libraries and frameworks, which saves me a lot of time.   
 
 ### Future development:
-##### The delete function will be developed in the future, so the teacher can delete the information the students wrongly entered.
-##### Add log-in page for teachers and students
-##### Optimize the algorithm of auto-grouper function. For now, if the number of student is odd, then there will be a team with only one student. 
+- The delete function will be developed in the future, so the teacher can delete the information the students wrongly entered.
+- Add log-in page for teachers and students
+- Optimize the algorithm of auto-grouper function. For now, if the number of student is odd, then there will be a team with only one student. 
 
 
  
