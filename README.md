@@ -10,7 +10,7 @@ During this semester, we are required to do a lot of group works and studies. We
 - Connectivism: “Learning does not simply happen within an individual, but within and across the networks.”
 - The zone of proximal development (ZPD)： “The ability to solve problems independently and do certain tasks without help could be facilitated through social interaction and sense-making.”
 ### Technical execution:
-- Front-end: React (JS), Moment.js, React Bootstrap 
+- Front-end: React (JS), React Bootstrap 
 - Back-end: Node.js, Express, Mongoose, MongoDB
 - Firstly, I made a very basic website using HTML, CSS, JavaScipt, but lately I found that the user interface was not very aesthetic and it costed lines of codes to achieve a very basic function. So, I watched a lot of youtube tutorials and googled several examples via mainstream websites, like StackOverflow,  W3Schools. Many youtubers mentioned industrial standards about front-end development and recommended react for creating interactive UIs. So I turned to learn knowledge about react and learned to develop a website with front-end and back-end. I used React for developing the front-end, and for the back-end, I used Node, Express, Mongoose, MongoDB.  
 
@@ -30,6 +30,7 @@ During this semester, we are required to do a lot of group works and studies. We
 - The delete function will be developed in the future, so the teacher can delete the information the students wrongly entered.
 - Add log-in page for teachers and students
 - Optimize the algorithm of auto-grouper function. For now, if the number of student is odd, then there will be a team with only one student. 
+- Use Moment.js to present the date
 
 
  
