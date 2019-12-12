@@ -10,7 +10,7 @@ Inspired by some collaborative learning theories and some personal experiences a
 Personal experience: When we have group projects in class, we are usually struggling with how to efficiently find our ideal group mates. Moreover, teachers may feel tricky to manage students’ grouping. 
 I also got some inspitations 
 ### Technical execution:
-#### tech-stack:
+- tech-stack:
 ##### Front-end: React (JS), React Router, Moment.js, React Bootstrap 
 ##### Back-end: Node, Express, Mongoose, MongoDB
 ##### deploy: npm
