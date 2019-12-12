@@ -23,7 +23,7 @@ During this semester, we are required to do a lot of group works and studies. We
 
 
 ### Self reflection:
-- I spent 4 weeks to learn to use react and other basic knowledge about developing a interactive website with both front-end and back-end, but still find the timeline is pretty tight and stressful. If I could start over again, I would not spend much time on using plain HTML, CSS and JavaScript to develop the old version of the website. Instead, I will spend more time on studying knowledge about React, Node, etc. and build websites based on the existed frameworks.
+- I spent 4 weeks to learn to use react and other basic knowledge about developing a dynamic website with both front-end and back-end, but still find the timeline is pretty tight and stressful. If I could start over again, I would not spend much time on using plain HTML, CSS and JavaScript to develop the old version of the website. Instead, I will spend more time on studying knowledge about React, Node, etc. and build websites based on the existed frameworks.
 - What I find most interesting in my project is that I can create a presentable user interface and achieve real functions by using existed libraries and frameworks, which saves me a lot of time.   
 
 ### Future development:
