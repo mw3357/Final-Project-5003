@@ -12,7 +12,7 @@ During this semester, we are required to do a lot of group works and studies. We
 ### Technical execution:
 - Front-end: React (JS), React Bootstrap 
 - Back-end: Node.js, Express, Mongoose, MongoDB
-- Firstly, I made a very basic website using HTML, CSS, JavaScipt, but lately I found that the user interface was not very aesthetic and it costed lines of codes to achieve a very basic function. So, I watched a lot of youtube tutorials and googled several examples via mainstream websites, like StackOverflow,  W3Schools. Many youtubers mentioned industrial standards about front-end development and recommended react for creating interactive UIs. So I turned to learn knowledge about react and learned to develop a website with front-end and back-end. I used React for developing the front-end, and for the back-end, I used Node, Express, Mongoose, MongoDB.  
+- Firstly, I made a very basic website using HTML, CSS, JavaScipt, but lately I found that the user interface was not very aesthetic and it costed lines of codes to achieve a very basic function. So, I watched a lot of youtube tutorials and googled several examples via mainstream websites, like StackOverflow,  W3Schools. Many youtubers mentioned industrial standards about front-end development and recommended react for creating interactive UIs. So I turned to learn knowledge about react and learned to develop a website with front-end and back-end. I used React for developing the front-end. And for the back-end, I used Node, Express, Mongoose, MongoDB.  
 
 - I found a tutorial for installing MongoDB on a Google Cloud node with easy setups : https://bluemedora.com/mongodb-on-google-cloud-how-to-set-it-up-and-keep-it-healthy/. The mongo endpoint is 34.87.52.51:27017. 
 
@@ -31,10 +31,4 @@ During this semester, we are required to do a lot of group works and studies. We
 - Add log-in page for teachers and students
 - Optimize the algorithm of auto-grouper function. For now, if the number of student is odd, then there will be a team with only one student. 
 - Use Moment.js to present the date
-
-
- 
-
-
-
 
