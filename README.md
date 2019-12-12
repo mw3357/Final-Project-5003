@@ -1,6 +1,5 @@
 # Final-Project-for-5003
 ## Final Project for 5003 Interactive Media 
-## Manjun Wang
 ## Teachers College, Columbia University
 
 ### Overall objective of this project:
