@@ -9,7 +9,7 @@ Inspired by some collaborative learning theories and some personal experiences a
 During this semester, we are required to do a lot of group works and studies. We enjoyed the collaborative learning process a lot, students are able to brainstorm ideas together, share experiences and knowledge with each other, and because of the collaborative work, learning becomes interesting and full of potentials. More importantly, collaborative learning enables students to learn from each other.(Connectivism: “Learning does not simply happen within an individual, but within and across the networks.”)
 ### Technical execution:
 - Front-end: React (JS), Moment.js, React Bootstrap 
-- Back-end: Node, Express, Mongoose, MongoDB
+- Back-end: Node.js, Express, Mongoose, MongoDB
 - Firstly, I made a very basic website using HTML, CSS, JavaScipt, but lately I found that the user interface was not very aesthetic and it costed lines of codes to achieve a very basic function. So, I watched a lot of youtube tutorials and googled several examples via mainstream websites, like StackOverflow,  W3Schools. Many youtubers mentioned industrial standards about front-end development and recommended react for creating interactive UIs. So I turned to learn knowledge about react and learned to develop a website with front-end and back-end. I used React for developing the front-end, and for the back-end, I used Node, Express, Mongoose, MongoDB.  
 
 - I found a tutorial for installing MongoDB on a Google Cloud node with easy setups : https://bluemedora.com/mongodb-on-google-cloud-how-to-set-it-up-and-keep-it-healthy/. The mongo endpoint is 34.87.52.51:27017. 
